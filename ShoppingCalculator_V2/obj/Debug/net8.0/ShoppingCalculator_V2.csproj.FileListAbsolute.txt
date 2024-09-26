@@ -1,0 +1,15 @@
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/bin/Debug/net8.0/ShoppingCalculator_V2
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/bin/Debug/net8.0/ShoppingCalculator_V2.deps.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/bin/Debug/net8.0/ShoppingCalculator_V2.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/bin/Debug/net8.0/ShoppingCalculator_V2.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/bin/Debug/net8.0/ShoppingCalculator_V2.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/obj/Debug/net8.0/ShoppingCalculator_V2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/obj/Debug/net8.0/ShoppingCalculator_V2.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/obj/Debug/net8.0/ShoppingCalculator_V2.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/obj/Debug/net8.0/ShoppingCalculator_V2.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/obj/Debug/net8.0/ShoppingCalculator_V2.sourcelink.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/obj/Debug/net8.0/ShoppingCalculator_V2.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/obj/Debug/net8.0/refint/ShoppingCalculator_V2.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/obj/Debug/net8.0/ShoppingCalculator_V2.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/obj/Debug/net8.0/ShoppingCalculator_V2.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator_V2/obj/Debug/net8.0/ref/ShoppingCalculator_V2.dll

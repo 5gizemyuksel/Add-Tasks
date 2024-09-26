@@ -1,0 +1,15 @@
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/bin/Debug/net8.0/CalculatorAplication_V1
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/bin/Debug/net8.0/CalculatorAplication_V1.deps.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/bin/Debug/net8.0/CalculatorAplication_V1.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/bin/Debug/net8.0/CalculatorAplication_V1.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/bin/Debug/net8.0/CalculatorAplication_V1.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/obj/Debug/net8.0/CalculatorAplication_V1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/obj/Debug/net8.0/CalculatorAplication_V1.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/obj/Debug/net8.0/CalculatorAplication_V1.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/obj/Debug/net8.0/CalculatorAplication_V1.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/obj/Debug/net8.0/CalculatorAplication_V1.sourcelink.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/obj/Debug/net8.0/CalculatorAplication_V1.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/obj/Debug/net8.0/refint/CalculatorAplication_V1.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/obj/Debug/net8.0/CalculatorAplication_V1.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/obj/Debug/net8.0/CalculatorAplication_V1.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorAplication_V1/obj/Debug/net8.0/ref/CalculatorAplication_V1.dll

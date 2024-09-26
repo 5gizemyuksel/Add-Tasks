@@ -1,0 +1,15 @@
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/bin/Debug/net8.0/CalculatorApplication_V3
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/bin/Debug/net8.0/CalculatorApplication_V3.deps.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/bin/Debug/net8.0/CalculatorApplication_V3.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/bin/Debug/net8.0/CalculatorApplication_V3.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/bin/Debug/net8.0/CalculatorApplication_V3.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/obj/Debug/net8.0/CalculatorApplication_V3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/obj/Debug/net8.0/CalculatorApplication_V3.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/obj/Debug/net8.0/CalculatorApplication_V3.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/obj/Debug/net8.0/CalculatorApplication_V3.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/obj/Debug/net8.0/CalculatorApplication_V3.sourcelink.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/obj/Debug/net8.0/CalculatorApplication_V3.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/obj/Debug/net8.0/refint/CalculatorApplication_V3.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/obj/Debug/net8.0/CalculatorApplication_V3.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/obj/Debug/net8.0/CalculatorApplication_V3.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/CalculatorApplication_V3/obj/Debug/net8.0/ref/CalculatorApplication_V3.dll

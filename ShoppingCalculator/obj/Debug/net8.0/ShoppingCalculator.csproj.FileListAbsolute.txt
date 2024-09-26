@@ -1,0 +1,15 @@
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/bin/Debug/net8.0/ShoppingCalculator
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/bin/Debug/net8.0/ShoppingCalculator.deps.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/bin/Debug/net8.0/ShoppingCalculator.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/bin/Debug/net8.0/ShoppingCalculator.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/bin/Debug/net8.0/ShoppingCalculator.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/obj/Debug/net8.0/ShoppingCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/obj/Debug/net8.0/ShoppingCalculator.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/obj/Debug/net8.0/ShoppingCalculator.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/obj/Debug/net8.0/ShoppingCalculator.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/obj/Debug/net8.0/ShoppingCalculator.sourcelink.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/obj/Debug/net8.0/ShoppingCalculator.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/obj/Debug/net8.0/refint/ShoppingCalculator.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/obj/Debug/net8.0/ShoppingCalculator.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/obj/Debug/net8.0/ShoppingCalculator.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/Add-Tasks/ShoppingCalculator/obj/Debug/net8.0/ref/ShoppingCalculator.dll
